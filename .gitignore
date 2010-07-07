@@ -11,3 +11,8 @@ doc/output/faq
 doc/output/index.html
 coverage
 .dotest
+
+# Ignore SVN files so they don't get checked in
+.svn/
+# Ignore emacs backup files
+*~
